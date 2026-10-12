@@ -1,0 +1,10 @@
+{
+  "name": "achievement-unlocked",
+  "description": "Gamifies Claude Code: pops a toast the first time you cross a real milestone, tracked for life across every session.",
+  "owner": { "name": "thisismairaj", "url": "https://github.com/thisismairaj" },
+  "plugins": [{
+    "name": "achievement-unlocked",
+    "source": "./",
+    "description": "Gamifies Claude Code: pops a toast the first time you cross a real milestone, tracked for life across every session."
+  }]
+}
