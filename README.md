@@ -7,6 +7,20 @@
 
 ---
 
+## Why this matters
+
+Be honest: this doesn't make you ship faster. It isn't a productivity
+tool, and it isn't pretending to be one.
+
+What it does is turn a handful of real, already-happening milestones,
+your first commit, your hundredth tool call, into a small "huh, nice"
+instead of letting them pass unnoticed. That's attention and morale, not
+velocity: a harmless bit of delight in a tool you otherwise stare at all
+day.
+
+**Honest limit:** there's no score to chase and no mechanic to grind.
+Once you've seen every milestone once, that's it, for good.
+
 ## What it does
 
 No fake points, no score to chase, just a handful of real firsts and round-number
